@@ -35697,6 +35697,20 @@
             "url": "https://greasyfork.org/en/users?q={username}",
             "usernameClaimed": "jcunews",
             "usernameUnclaimed": "noonewouldeverusethis7"
+        },
+        "CSDN": {
+            "tags": [
+                "cn",
+                "tech",
+                "blog"
+            ],
+            "checkType": "status_code",
+            "alexaRank": 50,
+            "urlMain": "https://blog.csdn.net/",
+            "url": "https://blog.csdn.net/{username}",
+            "usernameClaimed": "blue",
+            "usernameUnclaimed": "noonewouldeverusethis7777",
+            "regexCheck": "^[a-zA-Z0-9_]{4,30}$"
         }
     },
     "engines": {
